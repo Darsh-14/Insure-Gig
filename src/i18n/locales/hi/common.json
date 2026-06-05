@@ -1,0 +1,20 @@
+{
+  "login": "लॉगिन",
+  "features": "विशेषताएं",
+  "howItWorks": "यह कैसे काम करता है",
+  "pricing": "मूल्य",
+  "getStarted": "शुरू करें",
+  "watchDemo": "डेमो देखें",
+  "other": "अन्य",
+  "activeUsers": "सक्रिय उपयोगकर्ता",
+  "paidOut": "भुगतान",
+  "satisfaction": "संतुष्टि",
+  "footerText": "© 2026 InsureGig. AI द्वारा डिलीवरी वर्कर्स की सुरक्षाा।",
+  "payWithRazorpay": "रेज़रपे से भुगतान करें - ₹{{amount}}/{{period}}",
+  "openingRazorpay": "रेज़रपे खुल रहा है...",
+  "useDemoPayment": "डेमो भुगतान का उपयोग करें - ₹{{amount}}/{{period}}",
+  "completingDemoPayment": "परीक्षण भुगतान पूरा किया जा रहा है...",
+  "paymentSuccess": "भुगतान सफल रहा। आईडी: {{id}}",
+  "paymentFailed": "भुगतान विफल रहा या रद्द कर दिया गया।",
+  "week": "सप्ताह"
+}
