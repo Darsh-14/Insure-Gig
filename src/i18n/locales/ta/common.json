@@ -1,0 +1,20 @@
+{
+  "login": "உள்நுழை",
+  "features": "அம்சங்கள்",
+  "howItWorks": "இது எப்படி வேலை செய்கிறது",
+  "pricing": "விலை",
+  "getStarted": "தொடங்கு",
+  "watchDemo": "டெமோ பார்க்க",
+  "other": "மற்றவை",
+  "activeUsers": "செயலில் உள்ளவர்கள்",
+  "paidOut": "செலுத்தப்பட்டது",
+  "satisfaction": "திருப்தி",
+  "footerText": "© 2026 InsureGig. AI மூலம் டெலிவரி பணியாளர்களை பாதுகாக்கிறோம்.",
+  "payWithRazorpay": "ரேஸர்பே மூலம் பணம் செலுத்துங்கள் - ₹{{amount}}/{{period}}",
+  "openingRazorpay": "ரேஸர்பே திறக்கப்படுகிறது...",
+  "useDemoPayment": "டெமோ கட்டணத்தைப் பயன்படுத்தவும் - ₹{{amount}}/{{period}}",
+  "completingDemoPayment": "சோதனை கட்டணம் முடிக்கப்படுகிறது...",
+  "paymentSuccess": "கட்டணம் வெற்றிகரமாக செலுத்தப்பட்டது. ஐடி: {{id}}",
+  "paymentFailed": "கட்டணம் தோல்வியடைந்தது அல்லது ரத்து செய்யப்பட்டது.",
+  "week": "வாரம்"
+}
