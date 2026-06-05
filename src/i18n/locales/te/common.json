@@ -1,0 +1,20 @@
+{
+  "login": "లాగిన్",
+  "features": "ఫీచర్లు",
+  "howItWorks": "ఇది ఎలా పని చేస్తుంది",
+  "pricing": "ధర",
+  "getStarted": "ప్రారంభించండి",
+  "watchDemo": "డెమో చూడండి",
+  "other": "ఇతర",
+  "activeUsers": "క్రియాశీల వినియోగదారులు",
+  "paidOut": "చెల్లింపులు",
+  "satisfaction": "సంతృప్తి",
+  "footerText": "© 2026 InsureGig. AI ద్వారా డెలివరీ భాగస్వాముల రక్షణ.",
+  "payWithRazorpay": "రేజర్‌పే ద్వారా చెల్లించండి - ₹{{amount}}/{{period}}",
+  "openingRazorpay": "రేజర్‌పే తెరుచుకుంటోంది...",
+  "useDemoPayment": "డెమో చెల్లింపును ఉపయోగించండి - ₹{{amount}}/{{period}}",
+  "completingDemoPayment": "పరీక్ష చెల్లింపు పూర్తవుతోంది...",
+  "paymentSuccess": "చెల్లింపు విజయవంతమైంది. ఐడి: {{id}}",
+  "paymentFailed": "చెల్లింపు విఫలమైంది లేదా రద్దు చేయబడింది.",
+  "week": "వారం"
+}
