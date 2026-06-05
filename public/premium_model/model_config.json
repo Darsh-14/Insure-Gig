@@ -1,0 +1,65 @@
+{
+  "feature_names": [
+    "age",
+    "ratings",
+    "vehicle_condition",
+    "multiple_deliveries",
+    "festival",
+    "is_night_shift",
+    "distance_km",
+    "experience_tier",
+    "city",
+    "weather",
+    "traffic",
+    "vehicle",
+    "time_of_day",
+    "daily_income"
+  ],
+  "weekly_min": 20,
+  "weekly_max": 50,
+  "formula": "trigger_probability * avg_income_lost_per_day * days_exposed with city/peril/activity adjustments",
+  "encodings": {
+    "city": {
+      "Metropolitian": 1.0,
+      "Urban": 0.5,
+      "Semi-Urban": 0.0
+    },
+    "weather": {
+      "Sunny": 0.0,
+      "Cloudy": 0.17,
+      "Windy": 0.33,
+      "Fog": 0.5,
+      "Sandstorms": 0.67,
+      "Stormy": 1.0
+    },
+    "traffic": {
+      "Low": 0.0,
+      "Medium": 0.33,
+      "High": 0.67,
+      "Jam": 1.0
+    },
+    "vehicle": {
+      "electric_scooter": 0.0,
+      "bicycle": 0.33,
+      "scooter": 0.67,
+      "motorcycle": 1.0
+    },
+    "time_of_day": {
+      "Morning": 0.0,
+      "Afternoon": 0.33,
+      "Evening": 0.67,
+      "Night": 1.0
+    }
+  },
+  "city_base_income": {
+    "Metropolitian": 700,
+    "Urban": 550,
+    "Semi-Urban": 420
+  },
+  "model_info": {
+    "trained_on": "43,799 real Indian delivery records",
+    "rmse_inr": 0.53,
+    "mae_inr": 0.4,
+    "r2": 0.9968
+  }
+}
