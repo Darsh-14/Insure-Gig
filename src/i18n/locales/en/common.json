@@ -1,0 +1,20 @@
+{
+  "login": "Login",
+  "features": "Features",
+  "howItWorks": "How it Works",
+  "pricing": "Pricing",
+  "getStarted": "Get Started",
+  "watchDemo": "Watch Demo",
+  "other": "Other",
+  "activeUsers": "Active Users",
+  "paidOut": "Paid Out",
+  "satisfaction": "Satisfaction",
+  "footerText": "© 2026 InsureGig. Protecting delivery workers with AI.",
+  "payWithRazorpay": "Pay with Razorpay - ₹{{amount}}/{{period}}",
+  "openingRazorpay": "Opening Razorpay...",
+  "useDemoPayment": "Use Demo Payment - ₹{{amount}}/{{period}}",
+  "completingDemoPayment": "Completing test payment...",
+  "paymentSuccess": "Payment successful. ID: {{id}}",
+  "paymentFailed": "Payment failed or was cancelled.",
+  "week": "week"
+}
