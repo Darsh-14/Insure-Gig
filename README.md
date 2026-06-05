@@ -426,12 +426,11 @@ streamlit run ai_model/streamlit_app.py
 
 ## 👥 Team & Contact
 
-| Name | Role | Contact |
-|------|------|---------|
-| Haina kumari | Tech Lead | hainakumari1@gmail.com |
-| Bipin Kumar | Full Stack Development | bipinkumar620013@gmail.com |
-| Dhanush Thirunavukkarasu | AI Development | dhanushthiru@proton.me |
-| Harsh Thakur | UI/UX Design | harsh06072006@gmail.com
+| Name | | Contact |
+|------||---------|
+| Haina kumari | | hainakumari1@gmail.com |
+| Bipin Kumar |  | bipinkumar620013@gmail.com |
+
 
 
 ---
