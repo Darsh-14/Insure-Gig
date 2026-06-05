@@ -1,0 +1,49 @@
+{
+  "pageTitle": "विमा प्लॅन्स",
+  "pageSubtitle": "प्लॅन निवडा आणि पूर्ण संरक्षण मिळवण्यासाठी पेमेंट करा",
+  "currentPlan": "सध्याचा प्लॅन",
+  "normalPlan": "सामान्य प्लॅन",
+  "premiumPlan": "प्रीमियम प्लॅन",
+  "policyActive": "पॉलिसी सक्रिय आहे",
+  "pendingPayment": "पेमेंट बाकी आहे",
+  "planUnavailable": "प्लॅन उपलब्ध नाही",
+  "calculatingPremium": "प्रीमियमची गणना होत आहे...",
+  "recommended": "शिफारस केलेले",
+  "perWeek": "/आठवडा",
+  "normalPlanDesc": "डिलिव्हरी पार्टनर्ससाठी मूलभूत संरक्षण",
+  "premiumPlanDesc": "त्वरित भरपाईसह जास्तीत जास्त संरक्षण",
+  "normalFeatures": {
+    "coverage": "₹{{amount}}/आठवड्यापर्यंत संरक्षण",
+    "weather": "मूलभूत हवामान संरक्षण",
+    "rain": "पावसाचे संरक्षण",
+    "aiAlerts": "AI जोखीम अलर्ट",
+    "claimTime": "सामान्य क्लेम प्रोसेसिंग (२४ तास)"
+  },
+  "premiumFeatures": {
+    "coverage": "₹{{amount}}/आठवड्यापर्यंत संरक्षण",
+    "fullWeather": "पूर्ण हवामान संरक्षण",
+    "allDisruptions": "सर्व व्यत्यय कव्हर आहेत",
+    "instantPayouts": "त्वरित स्वयंचलित भरपाई",
+    "priorityAI": "प्राधान्य AI देखरेख",
+    "aqiCoverage": "AQI आणि प्रदूषण संरक्षण",
+    "support": "२४/७ सपोर्ट"
+  },
+  "actuarialTitle": "तुमच्या प्रीमियमची गणना कशी केली जाते",
+  "actuarialSubtitle": "पूर्ण एक्चुअरियल ब्रेकडाउन — कोणतीही लपलेली माहिती नाही",
+  "weeklyPremium": "तुमचा साप्ताहिक प्रीमियम",
+  "weeklyPremiumNote": "₹२०–₹५० च्या मर्यादेत",
+  "comparisonTitle": "प्लॅनची तुलना",
+  "comparisonFeature": "वैशिष्ट्ये",
+  "comparisonNormal": "सामान्य",
+  "comparisonPremium": "प्रीमियम",
+  "comparisonRows": {
+    "weeklyCost": "साप्ताहिक खर्च",
+    "maxCoverage": "जास्तीत जास्त संरक्षण",
+    "claimTime": "क्लेम प्रोसेसिंग वेळ",
+    "rainCoverage": "पावसाचे संरक्षण",
+    "aqiCoverage": "AQI/प्रदूषण संरक्षण",
+    "allDisruptions": "सर्व व्यत्यय"
+  },
+  "claimTimeNormal": "२४ तास",
+  "claimTimePremium": "त्वरित"
+}
