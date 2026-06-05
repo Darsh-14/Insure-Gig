@@ -1,0 +1,49 @@
+{
+  "pageTitle": "భీమా ప్లాన్‌లు",
+  "pageSubtitle": "మిగిలిన యాప్‌ని అన్‌లాక్ చేయడానికి ప్లాన్‌ని ఎంచుకుని చెల్లింపును పూర్తి చేయండి",
+  "currentPlan": "ప్రస్తుత ప్లాన్",
+  "normalPlan": "సాధారణ ప్లాన్",
+  "premiumPlan": "ప్రీమియం ప్లాన్",
+  "policyActive": "పాలసీ అమల్లో ఉంది",
+  "pendingPayment": "చెల్లింపు పెండింగ్‌లో ఉంది",
+  "planUnavailable": "ప్లాన్ అందుబాటులో లేదు",
+  "calculatingPremium": "ప్రీమియం లెక్కింపు జరుగుతోంది...",
+  "recommended": "సిఫార్సు చేయబడింది",
+  "perWeek": "/వారం",
+  "normalPlanDesc": "డెలివరీ భాగస్వాముల కోసం ప్రాథమిక రక్షణ",
+  "premiumPlanDesc": "తక్షణ చెల్లింపులతో గరిష్ట రక్షణ",
+  "normalFeatures": {
+    "coverage": "₹{{amount}}/వారం వరకు కవరేజీ",
+    "weather": "ప్రాథమిక వాతావరణ రక్షణ",
+    "rain": "వర్షం కవరేజీ",
+    "aiAlerts": "AI రిస్క్ అలర్ట్‌లు",
+    "claimTime": "సాధారణ క్లెయిమ్ ప్రాసెస్ (24 గంటలు)"
+  },
+  "premiumFeatures": {
+    "coverage": "₹{{amount}}/వారం వరకు కవరేజీ",
+    "fullWeather": "పూర్తి వాతావరణ రక్షణ",
+    "allDisruptions": "అన్ని ఆటంకాలు కవర్ చేయబడతాయి",
+    "instantPayouts": "తక్షణ ఆటోమేటిక్ చెల్లింపులు",
+    "priorityAI": "ప్రయారిటీ AI మానిటరింగ్",
+    "aqiCoverage": "AQI & కాలుష్య కవరేజీ",
+    "support": "24/7 మద్దతు"
+  },
+  "actuarialTitle": "మీ ప్రీమియం ఎలా లెక్కించబడుతుంది",
+  "actuarialSubtitle": "పూర్తి వివరాలు — ఎటువంటి దాచిన విషయాలు లేవు",
+  "weeklyPremium": "మీ వారపు ప్రీమియం",
+  "weeklyPremiumNote": "₹20–₹50 పరిమితిలో",
+  "comparisonTitle": "ప్లాన్ పోలిక",
+  "comparisonFeature": "ఫీచర్",
+  "comparisonNormal": "సాధారణ",
+  "comparisonPremium": "ప్రీమియం",
+  "comparisonRows": {
+    "weeklyCost": "వారపు ఖర్చు",
+    "maxCoverage": "గరిష్ట కవరేజీ",
+    "claimTime": "క్లెయిమ్ ప్రాసెసింగ్ సమయం",
+    "rainCoverage": "వర్షం కవరేజీ",
+    "aqiCoverage": "AQI/కాలుష్య కవరేజీ",
+    "allDisruptions": "అన్ని ఆటంకాలు"
+  },
+  "claimTimeNormal": "24 గంటలు",
+  "claimTimePremium": "తక్షణమే"
+}
