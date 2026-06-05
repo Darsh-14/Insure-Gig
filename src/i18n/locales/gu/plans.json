@@ -1,0 +1,49 @@
+{
+  "pageTitle": "વીમા પ્લાન્સ",
+  "pageSubtitle": "પ્લાન પસંદ કરો અને બાકીની એપ અનલોક કરવા માટે ચુકવણી પૂર્ણ કરો",
+  "currentPlan": "વર્તમાન પ્લાન",
+  "normalPlan": "સામાન્ય પ્લાન",
+  "premiumPlan": "પ્રીમિયમ પ્લાન",
+  "policyActive": "પોલિસી સક્રિય છે",
+  "pendingPayment": "ચુકવણી બાકી છે",
+  "planUnavailable": "પ્લાન ઉપલબ્ધ નથી",
+  "calculatingPremium": "પ્રીમિયમની ગણતરી થઈ રહી છે...",
+  "recommended": "ભલામણ કરેલ",
+  "perWeek": "/અઠવાડિયું",
+  "normalPlanDesc": "ડિલિવરી પાર્ટનર્સ માટે મૂળભૂત સુરક્ષા",
+  "premiumPlanDesc": "ઝડપી વળતર સાથે મહત્તમ સુરક્ષા",
+  "normalFeatures": {
+    "coverage": "₹{{amount}}/અઠવાડિયા સુધીનું કવરેજ",
+    "weather": "મૂળભૂત હવામાન સુરક્ષા",
+    "rain": "વરસાદ સુરક્ષા",
+    "aiAlerts": "AI જોખમ એલર્ટ",
+    "claimTime": "સામાન્ય ક્લેમ પ્રોસેસિંગ (24 કલાક)"
+  },
+  "premiumFeatures": {
+    "coverage": "₹{{amount}}/અઠવાડિયા સુધીનું કવરેજ",
+    "fullWeather": "સંપૂર્ણ હવામાન સુરક્ષા",
+    "allDisruptions": "તમામ અડચણો કવર કરવામાં આવે છે",
+    "instantPayouts": "ઝડપી સ્વચાલિત વળતર",
+    "priorityAI": "પ્રાયોરિટી AI મોનિટરિંગ",
+    "aqiCoverage": "AQI અને પ્રદૂષણ સુરક્ષા",
+    "support": "24/7 સપોર્ટ"
+  },
+  "actuarialTitle": "તમારા પ્રીમિયમની ગણતરી કેવી રીતે કરવામાં આવે છે",
+  "actuarialSubtitle": "સંપૂર્ણ વિગતો — કોઈ છુપી માહિતી નથી",
+  "weeklyPremium": "તમારું સાપ્તાહિક પ્રીમિયમ",
+  "weeklyPremiumNote": "₹20–₹50 ની મર્યાદામાં",
+  "comparisonTitle": "પ્લાન સરખામણી",
+  "comparisonFeature": "વિશેષતા",
+  "comparisonNormal": "સામાન્ય",
+  "comparisonPremium": "પ્રીમિયમ",
+  "comparisonRows": {
+    "weeklyCost": "સાપ્તાહિક ખર્ચ",
+    "maxCoverage": "મહત્તમ કવરેજ",
+    "claimTime": "ક્લેમ પ્રોસેસિંગ સમય",
+    "rainCoverage": "વરસાદ સુરક્ષા",
+    "aqiCoverage": "AQI/પ્રદૂષણ સુરક્ષા",
+    "allDisruptions": "તમામ અડચણો"
+  },
+  "claimTimeNormal": "24 કલાક",
+  "claimTimePremium": "ઝડપી"
+}
