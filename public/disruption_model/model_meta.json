@@ -1,0 +1,80 @@
+{
+  "features": [
+    "month_sin",
+    "month_cos",
+    "dow_sin",
+    "dow_cos",
+    "is_monsoon",
+    "is_winter_fog",
+    "lat_norm",
+    "lon_norm",
+    "aqi_norm",
+    "aqi_lag1_norm",
+    "aqi_lag7_norm",
+    "aqi_roll7_norm",
+    "rain_norm",
+    "rain_lag1_norm",
+    "rain_lag7_norm",
+    "rain_roll7_norm"
+  ],
+  "outputs": [
+    "weather",
+    "aqi",
+    "traffic",
+    "platform"
+  ],
+  "n_features": 16,
+  "city_coords": {
+    "Mumbai": [
+      19.076,
+      72.8777
+    ],
+    "Delhi": [
+      28.6139,
+      77.209
+    ],
+    "Bangalore": [
+      12.9716,
+      77.5946
+    ],
+    "Hyderabad": [
+      17.385,
+      78.4867
+    ],
+    "Chennai": [
+      13.0827,
+      80.2707
+    ],
+    "Kolkata": [
+      22.5726,
+      88.3639
+    ],
+    "Pune": [
+      18.5204,
+      73.8567
+    ],
+    "Ahmedabad": [
+      23.0225,
+      72.5714
+    ]
+  },
+  "normalization": {
+    "aqi_max": 500,
+    "pm25_max": 300,
+    "rainfall_max": 200,
+    "lat_range": [
+      8.0,
+      37.0
+    ],
+    "lon_range": [
+      68.0,
+      97.5
+    ]
+  },
+  "thresholds": {
+    "weather_trigger": 0.4,
+    "aqi_trigger": 0.35,
+    "traffic_trigger": 0.55,
+    "platform_trigger": 0.3
+  }
+}
