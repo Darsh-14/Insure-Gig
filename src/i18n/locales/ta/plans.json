@@ -1,0 +1,49 @@
+{
+  "pageTitle": "காப்பீட்டு திட்டங்கள்",
+  "pageSubtitle": "திட்டத்தைத் தேர்வு செய்து கட்டணம் செலுத்தி மீதமுள்ள ஆப்பை திறக்கவும்",
+  "currentPlan": "தற்போதைய திட்டம்",
+  "normalPlan": "சாதாரண திட்டம்",
+  "premiumPlan": "பிரீமியம் திட்டம்",
+  "policyActive": "கொள்கை செயலில்",
+  "pendingPayment": "கட்டணம் நிலுவையில்",
+  "planUnavailable": "திட்டம் கிடைக்கவில்லை",
+  "calculatingPremium": "பிரீமியம் கணக்கிடப்படுகிறது...",
+  "recommended": "பரிந்துரைக்கப்பட்டது",
+  "perWeek": "/வாரம்",
+  "normalPlanDesc": "டெலிவரி பணியாளர்களுக்கான அடிப்படை பாதுகாப்பு",
+  "premiumPlanDesc": "உடனடி இழப்பீட்டுடன் அதிகபட்ச பாதுகாப்பு",
+  "normalFeatures": {
+    "coverage": "{{amount}}/வாரம் வரை பாதுகாப்பு",
+    "weather": "அடிப்படை வானிலை பாதுகாப்பு",
+    "rain": "மழை பாதுகாப்பு",
+    "aiAlerts": "AI அபாய எச்சரிக்கைகள்",
+    "claimTime": "நிலையான கோரிக்கை செயலாக்கம் (24 மணி நேரம்)"
+  },
+  "premiumFeatures": {
+    "coverage": "{{amount}}/வாரம் வரை பாதுகாப்பு",
+    "fullWeather": "முழு வானிலை பாதுகாப்பு",
+    "allDisruptions": "அனைத்து இடையூறுகளும் உள்ளடக்கியது",
+    "instantPayouts": "உடனடி தானியங்கி இழப்பீடு",
+    "priorityAI": "முன்னுரிமை AI கண்காணிப்பு",
+    "aqiCoverage": "AQI & மாசு பாதுகாப்பு",
+    "support": "24/7 ஆதரவு"
+  },
+  "actuarialTitle": "உங்கள் பிரீமியம் எவ்வாறு கணக்கிடப்படுகிறது",
+  "actuarialSubtitle": "முழு விவரம் — மறைக்கப்பட்ட எதுவும் இல்லை",
+  "weeklyPremium": "உங்கள் வாராந்திர பிரீமியம்",
+  "weeklyPremiumNote": "₹20–₹50 வரம்பில்",
+  "comparisonTitle": "திட்ட ஒப்பீடு",
+  "comparisonFeature": "அம்சம்",
+  "comparisonNormal": "சாதாரண",
+  "comparisonPremium": "பிரீமியம்",
+  "comparisonRows": {
+    "weeklyCost": "வாராந்திர கட்டணம்",
+    "maxCoverage": "அதிகபட்ச பாதுகாப்பு",
+    "claimTime": "கோரிக்கை செயலாக்க நேரம்",
+    "rainCoverage": "மழை பாதுகாப்பு",
+    "aqiCoverage": "AQI/மாசு பாதுகாப்பு",
+    "allDisruptions": "அனைத்து இடையூறுகள்"
+  },
+  "claimTimeNormal": "24 மணி நேரம்",
+  "claimTimePremium": "உடனடி"
+}
