@@ -1,0 +1,37 @@
+{
+  "heroTitle": "AI Insurance for Delivery Partners",
+  "heroSubtitle": "Protecting every delivery, every week.",
+  "heroDescription": "Protect your weekly income instantly with AI-powered insurance designed for delivery workers from Swiggy, Zomato, and more.",
+
+  "problemTitle": "The Problem",
+  "problemDescription": "Delivery workers lose income during heavy rain, pollution, and other disruptions. Traditional insurance is slow and complicated. We make it instant and automatic.",
+
+  "weatherImpactTitle": "Weather Impact",
+  "weatherImpactDesc": "Heavy rain reduces deliveries by 60%",
+  "pollutionRiskTitle": "Pollution Risk",
+  "pollutionRiskDesc": "High AQI means fewer riders on road",
+  "incomeLossTitle": "Income Loss",
+  "incomeLossDesc": "Lost earnings impact families",
+
+  "step1Title": "Sign Up",
+  "step1Desc": "Quick registration with your delivery platform details",
+  "step2Title": "Choose Plan",
+  "step2Desc": "Select Normal or Premium coverage based on your needs",
+  "step3Title": "AI Monitors",
+  "step3Desc": "Our AI tracks weather, AQI, and demand in real-time",
+  "step4Title": "Auto Payout",
+  "step4Desc": "Instant compensation when disruptions are detected",
+
+  "featuresTitle": "Key Features",
+  "feature1Title": "AI-Powered Detection",
+  "feature1Desc": "Advanced AI monitors weather, pollution, and delivery demand to automatically detect disruptions",
+  "feature2Title": "Instant Claims",
+  "feature2Desc": "No paperwork, no waiting. Claims are automatically triggered and processed in minutes",
+  "feature3Title": "Earnings Protection",
+  "feature3Desc": "Protect up to ₹3000/week with our Premium plan and keep your income stable",
+
+  "testimonialsTitle": "Trusted by Delivery Heroes",
+
+  "ctaTitle": "Ready to Protect Your Income?",
+  "ctaSubtitle": "Join thousands of delivery workers who trust InsureGig"
+}
