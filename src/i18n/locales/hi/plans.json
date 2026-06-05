@@ -1,0 +1,49 @@
+{
+  "pageTitle": "बीमा प्लान",
+  "pageSubtitle": "प्लान चुनें और बाकी ऐप अनलॉक करने के लिए भुगतान करें",
+  "currentPlan": "वर्तमान प्लान",
+  "normalPlan": "सामान्य प्लान",
+  "premiumPlan": "प्रीमियम प्लान",
+  "policyActive": "पॉलिसी सक्रिय",
+  "pendingPayment": "भुगतान बाकी",
+  "planUnavailable": "प्लान उपलब्ध नहीं",
+  "calculatingPremium": "प्रीमियम गणना हो रही है...",
+  "recommended": "सुझाया गया",
+  "perWeek": "/सप्ताह",
+  "normalPlanDesc": "डिलीवरी वर्कर्स के लिए बुनियादी सुरक्षा",
+  "premiumPlanDesc": "तात्कालिक भुगतान के साथ अधिकतम सुरक्षा",
+  "normalFeatures": {
+    "coverage": "{{amount}}/सप्ताह तक कवरेज",
+    "weather": "बुनियादी मौसम सुरक्षा",
+    "rain": "बारिश कवरेज",
+    "aiAlerts": "AI जोखिम अलर्ट",
+    "claimTime": "मानक क्लेम प्रोसेसिंग (24 घंटे)"
+  },
+  "premiumFeatures": {
+    "coverage": "{{amount}}/सप्ताह तक कवरेज",
+    "fullWeather": "पूर्ण मौसम सुरक्षा",
+    "allDisruptions": "सभी व्यवधान कवर",
+    "instantPayouts": "तात्कालिक स्वचालित भुगतान",
+    "priorityAI": "प्राथमिकता AI निगरानी",
+    "aqiCoverage": "AQI और प्रदूषण कवरेज",
+    "support": "24/7 सहायता"
+  },
+  "actuarialTitle": "आपका प्रीमियम कैसे गणना होता है",
+  "actuarialSubtitle": "पूरी एक्चुअरियल जानकारी — कोई छुपी धारणा नहीं",
+  "weeklyPremium": "आपका साप्ताहिक प्रीमियम",
+  "weeklyPremiumNote": "₹20–₹50 सामर्थ्य सीमा में",
+  "comparisonTitle": "प्लान तुलना",
+  "comparisonFeature": "विशेषता",
+  "comparisonNormal": "सामान्य",
+  "comparisonPremium": "प्रीमियम",
+  "comparisonRows": {
+    "weeklyCost": "साप्ताहिक लागत",
+    "maxCoverage": "अधिकतम कवरेज",
+    "claimTime": "क्लेम प्रोसेसिंग समय",
+    "rainCoverage": "बारिश कवरेज",
+    "aqiCoverage": "AQI/प्रदूषण कवरेज",
+    "allDisruptions": "सभी व्यवधान"
+  },
+  "claimTimeNormal": "24 घंटे",
+  "claimTimePremium": "तुरंत"
+}
