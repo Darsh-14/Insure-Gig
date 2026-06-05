@@ -1,0 +1,8 @@
+name = "insuregig-sms-gateway"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# Secrets are set via CLI (never hardcode here):
+#   npx wrangler secret put TWILIO_ACCOUNT_SID
+#   npx wrangler secret put TWILIO_AUTH_TOKEN
+#   npx wrangler secret put TWILIO_FROM_NUMBER
