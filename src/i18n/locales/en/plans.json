@@ -1,0 +1,49 @@
+{
+  "pageTitle": "Insurance Plans",
+  "pageSubtitle": "Choose a plan and complete payment to unlock the rest of the app",
+  "currentPlan": "Current Plan",
+  "normalPlan": "Normal Plan",
+  "premiumPlan": "Premium Plan",
+  "policyActive": "Policy Active",
+  "pendingPayment": "Pending Payment",
+  "planUnavailable": "Plan Unavailable",
+  "calculatingPremium": "Calculating premium...",
+  "recommended": "Recommended",
+  "perWeek": "/week",
+  "normalPlanDesc": "Basic protection for delivery workers",
+  "premiumPlanDesc": "Maximum protection with instant payouts",
+  "normalFeatures": {
+    "coverage": "Coverage up to {{amount}}/week",
+    "weather": "Basic weather protection",
+    "rain": "Rain coverage",
+    "aiAlerts": "AI risk alerts",
+    "claimTime": "Standard claim processing (24 hours)"
+  },
+  "premiumFeatures": {
+    "coverage": "Coverage up to {{amount}}/week",
+    "fullWeather": "Full weather protection",
+    "allDisruptions": "All disruptions covered",
+    "instantPayouts": "Instant automatic payouts",
+    "priorityAI": "Priority AI monitoring",
+    "aqiCoverage": "AQI & pollution coverage",
+    "support": "24/7 support"
+  },
+  "actuarialTitle": "How your premium is calculated",
+  "actuarialSubtitle": "Full actuarial breakdown — no hidden assumptions",
+  "weeklyPremium": "Your weekly premium",
+  "weeklyPremiumNote": "Clamped to ₹20–₹50 affordability range",
+  "comparisonTitle": "Plan Comparison",
+  "comparisonFeature": "Feature",
+  "comparisonNormal": "Normal",
+  "comparisonPremium": "Premium",
+  "comparisonRows": {
+    "weeklyCost": "Weekly Cost",
+    "maxCoverage": "Maximum Coverage",
+    "claimTime": "Claim Processing Time",
+    "rainCoverage": "Rain Coverage",
+    "aqiCoverage": "AQI/Pollution Coverage",
+    "allDisruptions": "All Disruptions"
+  },
+  "claimTimeNormal": "24 hours",
+  "claimTimePremium": "Instant"
+}
